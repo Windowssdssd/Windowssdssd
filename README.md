@@ -45,21 +45,7 @@ Quote: "Automate everything — focus on what matters most."
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Windowsdsssd&theme=tokyo-night&hide_border=true&area=true" />
-
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Windowsdsssd&theme=tokyonight" />
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Windowsdsssd&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Windowsdsssd&theme=tokyonight&utcOffset=7" />
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Windowsdsssd&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Windowsdsssd&theme=tokyonight" />
-
-</div>
 
 ### 🪩 Visitors
 
