@@ -1,3 +1,4 @@
+
 <!-- 🌙 Diamond-Shop | GitHub Profile (Neon Typing Edition) -->
 
 <p align="center">
@@ -24,6 +25,7 @@
 ---
 
 ### 🧠 About Me
+
 ```yaml
 Name: Patiphan Chanpio
 From: Thailand 🇹🇭
@@ -34,14 +36,8 @@ Quote: "Automate everything — focus on what matters most."
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,flask,fastapi,sqlite,mysql,redis,linux,docker,nginx,cloudflare,git,github,js,nodejs,tailwind,vscode&perline=10" />
-</p>
-
----
-
 ### 💼 Projects
+
 | Project | Description | Repo |
 |---|---|---|
 | 💎 **Diamond-Shop Role Bot** | ระบบซื้อยศ + เติมเงิน TrueMoney อัตโนมัติ พร้อม UI Embed และสถิติ | [🔗 View Repo](https://github.com/Windowsdsssd/diamond-shop-discord-bot) |
@@ -50,6 +46,7 @@ Quote: "Automate everything — focus on what matters most."
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Windowsdsssd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165" src="https://streak-stats.demolab.com?user=Windowsdsssd&theme=tokyonight&hide_border=true" />
@@ -59,6 +56,7 @@ Quote: "Automate everything — focus on what matters most."
 ---
 
 ### 🪩 Visitors
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/Windowsdsssd/count.svg" alt="Visitor Count" />
 </p>
@@ -66,6 +64,7 @@ Quote: "Automate everything — focus on what matters most."
 ---
 
 ### 🩵 Signature
+
 <p align="center">
   Crafted with 💙 by <strong>Diamond-Shop</strong><br/>
   <sub>© 2025 Diamond-Shop • All rights reserved.</sub>
